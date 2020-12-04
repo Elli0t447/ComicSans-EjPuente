@@ -1,0 +1,55 @@
+body
+{
+    font-family: sans-serif;
+    background-color: #C6D9EE;
+}
+
+h1
+{
+    text-align: right;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+h2
+{
+    font-family: Cambria, serif;
+    font-size: 2em;
+    
+}
+p
+{
+    text-indent: 3.8em;
+    line-height: 1.5em;
+}
+
+footer
+{
+    font-size: 0.8em;
+    text-align: center;
+    font-style: italic;
+}
+
+.titulo
+{
+    font-family: 'Comic Sans MS', arial;
+    color: red;
+}
+
+.one
+{
+    color: rgb(175, 120, 18);
+    font-weight: bold;
+}
+
+.two
+{
+    color: orange;
+}
+
+.three
+{
+    font-style: italic;
+    color: green;
+    background-color: white;
+}
